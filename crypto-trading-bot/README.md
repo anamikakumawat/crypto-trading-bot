@@ -9,7 +9,7 @@ It supports **market orders, limit orders, stop-limit orders**, and order status
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-username/crypto-trading-bot.git
+   git clone https://github.com/anamikakumawat/crypto-trading-bot.git
    cd crypto-trading-bot
    ```
 
